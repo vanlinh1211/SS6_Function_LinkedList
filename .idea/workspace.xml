@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88b812a6-96d7-4381-8748-7f6d1b8857b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/DanhSachKhachHang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/DisplayTimeSever" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/FutureValueCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/Login" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/ProductDiscountCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/SimpleCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/dictornary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/docsothanhchu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/hahoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/hoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1/hoa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2/FindMindOfArray" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2/JSON" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2/Layout_Web" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2/LocDanhSach" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2/SearchMaxOfArray" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2/TryCatch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/Class/Cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/Class/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/ProductCart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/Product_Cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/img/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/img/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/img/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Product_Cart/img/ma-tuy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/QuadraticEquation_bac2/QuadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/Rectangle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3/StopWatch/StopWatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/Class_Circle_and_Cylinder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/Point2D_Point3D/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/Point2D_Point3D/Point2D_Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/Point2D_Point3D/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/Point_MoveablePoint/Point_BT3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/TH_ClassShape/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/TH_ClassShape/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/TH_ClassShape/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/TH_ClassShape/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/TH_ClassShape/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4/TH_ClassShape/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/Resizeable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/Resizeable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/Resizeable/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/Resizeable/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/Abstract_Animals/Animals.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/Abstract_Animals/Fruit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/Class_Animals_and_Edible/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/Class_Animals_and_Edible/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/Class_Animals_and_Edible/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/Class_Animals_and_Edible/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/InterFace_Edible/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH1/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH2/CircleTH2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH2/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH2/Comparator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH2/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH3/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH3/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH3/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5/TH3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array_List/MyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array_List/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array_List/myListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Easy/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Easy/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Easy/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../List_Easy/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../List_Easy/demo.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyLinkList.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="55" column="53" lean-forward="true" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Node.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyLinkList.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="391" />
+    <option name="y" value="27" />
+    <option name="width" value="975" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Function_LinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Function_LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88b812a6-96d7-4381-8748-7f6d1b8857b5" name="Default Changelist" comment="" />
+      <created>1555406918272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555406918272</updated>
+      <workItem from="1555406919433" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="804000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="25" width="1313" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940805" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Node.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLinkList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="55" column="53" lean-forward="true" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
